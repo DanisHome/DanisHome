@@ -7,7 +7,7 @@ I'm Danis / Hagen, Germany
 [![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=typescript)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=javascript)
 [![HTML](https://img.shields.io/badge/-html-F7DF1E.svg?logo=html&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=html)
-[![Python](https://img.shields.io/badge/-html-F7DF1E.svg?logo=python&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-python-F7DF1E.svg?logo=python&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=python)
 
 ## Learned at
 Gerlernt habe ich dies, bei [LvckyWorld](https://github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), der mein Mentor ist.
