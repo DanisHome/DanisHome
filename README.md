@@ -6,7 +6,7 @@ I'm Danis / Hagen, Germany
 ## Languages
 [![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=typescript)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=javascript)
-
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 ## Learned at
 Gerlernt habe ich dies, bei [LvckyWorld](https://github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), der mein Mentor ist.
 
