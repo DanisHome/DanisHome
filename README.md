@@ -20,3 +20,4 @@ Gerlernt habe ich dies, bei [LvckyWorld](https://github.com/LvckyWorld) oder auc
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanisHome6&theme=tokyonight)](https://github.com/DanisHome/)
 [![stats](https://github-readme-stats.vercel.app/api?username=DanisHome&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/DanisHome)
+.
