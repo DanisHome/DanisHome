@@ -8,6 +8,8 @@ I'm Danis / Hagen, Germany
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=javascript)
 [![HTML](https://img.shields.io/badge/-html-F7DF1E.svg?logo=html&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=html)
 [![Python](https://img.shields.io/badge/-python-F7DF1E.svg?logo=python&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=python)
+[![Java](https://img.shields.io/badge/-java-F7DF1E.svg?logo=java&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/DanisHome?tab=repositories&q=&type=&language=java)
+
 
 ## Learned at
 Gerlernt habe ich dies, bei [LvckyWorld](https://github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), der mein Mentor ist.
